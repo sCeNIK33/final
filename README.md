@@ -1,6 +1,6 @@
 # final
 
-Due Mar 11, 2021 @5pm CST
+Due Mar 
 <br>
 <p>This is our team code for the final project. We selected project #XYZ. This project [INSERT DESCRIPTION]<p>
 <p>Our team members: Christian Nikolopoulos, Jenieri Cyrus, Spencer Johnson.<p>
